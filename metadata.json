@@ -1,0 +1,6 @@
+{
+  "name": "Dược Sĩ Trịnh Thủy - Nhà Thuốc Phúc An 5",
+  "description": "Câu chuyện truyền cảm hứng từ nữ hộ sinh, mẹ 4 con, 7 năm học Dược đến Dược sĩ Phúc An 5 đồng hành cùng dược sĩ truyền thống chuyển mình lên Online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
